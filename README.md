@@ -8,11 +8,11 @@
     - [WebKit](https://github.com/WebKit/standards-positions/issues/128)
     - [Mozilla](https://github.com/mozilla/standards-positions/issues/373)
   - implementation
-    - [TypeScript](https://github.com/microsoft/TypeScript/issues/46689)
-    - [Rollup](https://rollupjs.org/configuration-options/#output-externalimportattributes)
-    - [SWC](https://github.com/swc-project/swc/pull/7868)
-    - [Babel](https://babeljs.io/docs/babel-plugin-proposal-import-attributes-to-assertions) [Babel 7.22.0](https://babeljs.io/blog/2023/05/26/7.22.0#import-attributes-15536-15620)
-    - [esbuild](https://github.com/evanw/esbuild/issues/3384)
+    - [ ] [TypeScript](https://github.com/microsoft/TypeScript/issues/46689)
+    - [x] [Rollup](https://rollupjs.org/configuration-options/#output-externalimportattributes)
+    - [x] [SWC](https://github.com/swc-project/swc/pull/7868)
+    - [x] [Babel](https://babeljs.io/docs/babel-plugin-proposal-import-attributes-to-assertions) [Babel 7.22.0](https://babeljs.io/blog/2023/05/26/7.22.0#import-attributes-15536-15620)
+    - [ ] [esbuild](https://github.com/evanw/esbuild/issues/3384)
 - Constructible style sheets / adoptedStyleSheets property
   - [Browser support - caniuse.com](https://caniuse.com/?search=adoptedStyleSheets)
   - [Constructible style sheets/adopted style sheets polyfill](https://github.com/calebdwilliams/construct-style-sheets)
