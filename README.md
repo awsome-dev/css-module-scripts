@@ -11,7 +11,7 @@
     - [ ] [TypeScript](https://github.com/microsoft/TypeScript/issues/46689)
     - [x] [Rollup](https://rollupjs.org/configuration-options/#output-externalimportattributes)
     - [x] [SWC](https://github.com/swc-project/swc/pull/7868)
-    - [x] [Babel](https://babeljs.io/docs/babel-plugin-proposal-import-attributes-to-assertions) [Babel 7.22.0](https://babeljs.io/blog/2023/05/26/7.22.0#import-attributes-15536-15620)
+    - [x] [Babel](https://babeljs.io/docs/babel-plugin-proposal-import-attributes-to-assertions) ([Babel 7.22.0 Release note](https://babeljs.io/blog/2023/05/26/7.22.0#import-attributes-15536-15620))
     - [ ] [esbuild](https://github.com/evanw/esbuild/issues/3384)
 - Constructible style sheets / adoptedStyleSheets property
   - [Browser support - caniuse.com](https://caniuse.com/?search=adoptedStyleSheets)
