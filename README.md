@@ -2,6 +2,9 @@
 
 - import attribute
   - [Browser support - web-platform-tests/interop](https://github.com/web-platform-tests/interop/issues/597)
+    - [ ] Blink
+    - [ ] WebKit
+    - [ ] [Mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1736059)
   - [Spec - TC39](https://github.com/tc39/proposal-import-attributes)
   - [Spec - WHATWG](https://github.com/whatwg/html/pull/4898)
   - Standards Positions
